@@ -7,3 +7,4 @@ fr
 frfr
 vfr
 xz
+xz
